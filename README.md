@@ -6,4 +6,4 @@
 
 [macOS (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg)              [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-beta.dmg) 
 
-#蓝灯官方中文论坛请访问 https://github.com/getlantern/forum
+# 蓝灯官方中文论坛请访问 https://github.com/getlantern/forum
